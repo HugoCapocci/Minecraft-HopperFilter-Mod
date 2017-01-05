@@ -1,0 +1,16 @@
+[
+{
+  "modid": "${modid}",
+  "name": "${name}",
+  "description": "New hopper recipe than is able to filter specific item",
+  "version": "${version}",
+  "mcversion": "${mcVersion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hugo Capocci"],
+  "credits": "The Forge and FML guys ;)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
